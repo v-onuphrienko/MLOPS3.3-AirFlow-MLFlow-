@@ -8,7 +8,20 @@ This project provides a comprehensive example of integrating Apache Airflow with
 - **MLflow Tracking:** Illustrates the integration of MLflow for experiment tracking and artifact logging.
 - **Workflow Automation:** Shows how to automate end-to-end machine learning workflows using Airflow.
 - **README.md Usage:**
+  - **README.md Usage:**
   - Clone the repository.
+    ```bash
+    git clone https://github.com/v-onuphrienko/MLOPS3.3.git
+    ```
+  - Create and activate a virtual environment (venv):
+    ```bash
+    python -m venv venv
+    source venv/bin/activate   # On Windows, use `venv\Scripts\activate`
+    ```
+  - Install project dependencies:
+    ```bash
+    pip install -r requirements.txt
+    ```
   - Review the example DAG in `dags/`.
   - Configure MLflow settings in `mlflow_config.yaml`.
   - Install dependencies with `pip install -r requirements.txt`.
