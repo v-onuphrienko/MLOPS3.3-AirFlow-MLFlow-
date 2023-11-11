@@ -1,0 +1,7 @@
+python: 3.10.12
+build_dependencies:
+- pip==22.0.2
+- setuptools
+- wheel
+dependencies:
+- -r requirements.txt

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1699697559157
+current_stage: None
+description: null
+last_updated_timestamp: 1699697559157
+name: lr
+run_id: ec24674863bd42e7a5dd445304301eb4
+run_link: null
+source: /home/vlad/project/mlflow/2/ec24674863bd42e7a5dd445304301eb4/artifacts/lr
+status: READY
+status_message: null
+storage_location: /home/vlad/project/mlflow/2/ec24674863bd42e7a5dd445304301eb4/artifacts/lr
+user_id: null
+version: 1
